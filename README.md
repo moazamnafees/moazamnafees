@@ -7,7 +7,7 @@
 - 🧩 Great Problem Solver
 
 - # Muhammad Moazam Nafees 👨‍💻
-📧 mnafees.bee21seecs@seecs.edu.pk | 🌐 [GitHub]() | 📍 Islamabad | 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-moazam-nafees-b84265263/) 
+📧 mnafees.bee21seecs@seecs.edu.pk | 🌐 [GitHub](https://github.com/moazamnafees) | 📍 Islamabad | 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-moazam-nafees-b84265263/) 
 ## Education 🎓
 - Bachelor of Electrical Engineering (Major: Microprocessors Systems, Embedded Systems, Digital Design Verification)
 - National University of Sciences and Technology Islamabad, PK
