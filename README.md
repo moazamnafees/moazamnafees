@@ -9,6 +9,7 @@
 - # Muhammad Moazam Nafees 👨‍💻
 📧 mnafees.bee21seecs@seecs.edu.pk | 🌐 [GitHub](https://github.com/moazamnafees) | 📍 Islamabad | 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-moazam-nafees-b84265263/) 
 ## Education 🎓
+- Government College University (GCU) Lahore  (2019-2021)
 - Bachelor of Electrical Engineering (Major: Microprocessors Systems, Embedded Systems, Digital Design Verification)
 - National University of Sciences and Technology Islamabad, PK
 - Expected June 2025
