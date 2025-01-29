@@ -6,7 +6,7 @@
 - 🎨 Math Expert
 - 🧩 Great Problem Solver
 
-  # Muhammad Moazam Nafees 👨‍💻
+# Muhammad Moazam Nafees 👨‍💻
 📧 mnafees.bee21seecs@seecs.edu.pk | 🌐 [GitHub](https://github.com/moazamnafees) | 📍 Islamabad | 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-moazam-nafees-b84265263/) 
 ## Education 🎓
 - Government College University (GCU) Lahore  (2019-2021)
